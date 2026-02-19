@@ -1,0 +1,12 @@
+{
+  "transactionID": "T987654",
+  "accountNumber": "1234567890",
+  "transactionType": "Debit",
+  "amount": {
+    "value": 1500.00,
+    "currency": "PHP"
+  },
+  "transactionDate": "2026-02-19",
+  "description": "ATM Withdrawal",
+  "status": "Completed"
+}

@@ -1,0 +1,12 @@
+{
+    "movieID": "M1001",
+    "name": "Snow White",
+    "studio": "Disney",
+    "duration": {
+        "length": 125,
+        "minutes": "true"
+    },
+    "premiereDate": "Jan 29",
+    "category": "Fictional",
+    "description": "Desc #1"
+}

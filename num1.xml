@@ -1,0 +1,9 @@
+<product>
+    <productID>P1001</productID>
+    <name>Headphones</name>
+    <brand>JBL</brand>
+    <price currency="PHP">2099.00</price>
+    <stockQuantity>50</stockQuantity>
+    <category>Electronics</category>
+    <description>Noise-cancelling Over-ear headphones</description>
+</product>

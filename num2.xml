@@ -1,0 +1,9 @@
+<movie>
+    <movieID>M1001</movieID>
+    <name>Snow White</name>
+    <studio>Disney</studio>
+    <duration minutes="true">125</duration>
+    <premiereDate>Jan 29</premiereDate>
+    <category>Fictional</category>
+    <description>Desc #1</description>
+</movie>

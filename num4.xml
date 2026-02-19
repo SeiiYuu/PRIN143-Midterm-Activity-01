@@ -1,0 +1,9 @@
+<transaction>
+    <transactionID>T987654</transactionID>
+    <accountNumber>1234567890</accountNumber>
+    <transactionType>Debit</transactionType>
+    <amount currency="PHP">1500.00</amount>
+    <transactionDate>2026-02-19</transactionDate>
+    <description>ATM Withdrawal</description>
+    <status>Completed</status>
+</transaction>
