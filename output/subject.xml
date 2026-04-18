@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Subject xmlns="https://www.example.com"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.example.com ../schemas/subject.xsd"
+    code="PRIN143">
+
+    <Student>
+        <StudentID>1</StudentID>
+        <Name>Francis</Name>
+    </Student>
+
+    <Student>
+        <StudentID>2</StudentID>
+        <Name>Kei</Name>
+    </Student>
+
+</Subject>
